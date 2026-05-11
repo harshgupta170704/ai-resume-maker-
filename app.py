@@ -11,6 +11,7 @@ st.markdown("""
     .main { background-color: #f8f9fa; }
     .stButton>button { width: 100%; border-radius: 5px; height: 3em; background-color: #003d7a; color: white; }
     .stTextInput>div>div>input { border-radius: 5px; }
+    
     .header-text { color: #003d7a; font-weight: bold; }
     </style>
     """, unsafe_allow_html=True)
